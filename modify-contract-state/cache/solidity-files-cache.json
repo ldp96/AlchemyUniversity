@@ -1,0 +1,76 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/lorenzodipuorto/Desktop/$_maybe/git/AlchemyUniversity/modify-contract-state/contracts/ModifyVariable.sol": {
+      "lastModificationDate": 1671544965115,
+      "contentHash": "6997aab9a8e4e0d38209ae227c517009",
+      "sourceName": "contracts/ModifyVariable.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.4"
+      ],
+      "artifacts": [
+        "ModifyVariable"
+      ]
+    },
+    "/Users/lorenzodipuorto/Desktop/$_maybe/git/AlchemyUniversity/modify-contract-state/contracts/Contract.sol": {
+      "lastModificationDate": 1671618265405,
+      "contentHash": "d92a4079f0569601171dfccbd1484e09",
+      "sourceName": "contracts/Contract.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "IContract",
+        "Winner"
+      ]
+    }
+  }
+}
